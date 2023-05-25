@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/2023reactapp/static/css/main.d9001546.css",
+    "main.js": "/2023reactapp/static/js/main.94413879.js",
+    "static/media/1.png": "/2023reactapp/static/media/1.b06b3e16766099ae699b.png",
+    "static/media/2.png": "/2023reactapp/static/media/2.c9f770185d65f363fab0.png",
+    "static/media/Questionnaire.jpeg": "/2023reactapp/static/media/Questionnaire.bb87b87b9cdb3b486d9c.jpeg",
+    "static/media/Toos.jpeg": "/2023reactapp/static/media/Toos.0773eb9c65c2fdeb690e.jpeg",
+    "static/media/5.png": "/2023reactapp/static/media/5.f4766a97d73376425f4c.png",
+    "static/media/4.png": "/2023reactapp/static/media/4.16fd1be7415b253b90fa.png",
+    "static/media/3.png": "/2023reactapp/static/media/3.9f30aedf117ccb52c267.png",
+    "index.html": "/2023reactapp/index.html",
+    "main.d9001546.css.map": "/2023reactapp/static/css/main.d9001546.css.map",
+    "main.94413879.js.map": "/2023reactapp/static/js/main.94413879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9001546.css",
+    "static/js/main.94413879.js"
+  ]
+}
